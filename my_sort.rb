@@ -17,7 +17,7 @@ class Array
 	end
 end
 
-puts [5, 3, 7, 1].my_sort
-puts ["a", "d", "b", "f"].my_sort
+#puts [5, 9, 7, 2].my_sort
+#puts ["a", "d", "b", "f"].my_sort
 
 

@@ -14,13 +14,10 @@ a = [1, 2, 3, 4]
 res = a.my_map do |x|
   x + 1
 end
-puts res
+#puts res
 
-res1 = a.my_map(&:to_s)
-puts res1.inspect
-
-
-
+result = a.my_map(&:to_s)
+#puts result.inspect
 
 
 
